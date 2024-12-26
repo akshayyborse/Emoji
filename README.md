@@ -15,7 +15,7 @@ EmojiPNG is a modern web application that allows users to easily download high-q
 
 ## 🚀 Live Demo
 
-Check out the live application: [EmojiPNG Live Demo](https://emoji-png.vercel.app)
+Check out the live application: [EmojiPNG Live Demo](https://emoji-rho.vercel.app/)
 
 ## 💻 Technologies Used
 

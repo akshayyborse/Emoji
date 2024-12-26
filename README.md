@@ -72,9 +72,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Akshay Borse - [@akshayborse](https://twitter.com/akshayborse)
+Akshay Borse - [@akshayyborse](https://twitter.com/akshayyborse)
 
-Project Link: [https://github.com/akshayborse/emoji](https://github.com/akshayborse/emoji)
+Project Link: [https://github.com/akshayyborse/emoji](https://github.com/akshayyborse/emoji)
 
 ---
 
